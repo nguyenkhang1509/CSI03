@@ -1,0 +1,5 @@
+{
+    "initial_bot_message": "Hi, I'm Vietbot, how can I help you?",
+    "functions": ["Introduce restaurant", "Introduce menu"]
+    
+}
